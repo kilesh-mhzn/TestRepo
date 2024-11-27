@@ -1,0 +1,3193 @@
+{
+    "success": true,
+    "message": "Menu fetched",
+    "code": "0",
+    "data": {
+        "unassignedMessage": "You are not authorized to access this menu.",
+        "mainMenuResponses": [
+            {
+                "code": "DASHBOARD_QUICK_TOOLS",
+                "name": "Quick Tools",
+                "unicodeName": "",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/nBank.png",
+                "assigned": true,
+                "tint": false,
+                "menuGroup": "ACCOUNT_DASHBOARD_MENUS",
+                "menuId": 83,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "Quick Tools",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 144,
+                        "code": "EMI",
+                        "name": "EMI Calculator",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/emi-calculator-bounded.png",
+                        "description": "EMI Calculator",
+                        "navLink": "https://www.nabilbank.com/individual/calculator?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "EMI Calculator"
+                            },
+                            "description": {
+                                "en": "EMI Calculator"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 145,
+                        "code": "DATE_CONVERTER",
+                        "name": "Date Converter",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/calendar-bounded.png",
+                        "description": "Date Converter",
+                        "navLink": "https://www.nabilbank.com/individual/calculator",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "Date Converter"
+                            },
+                            "description": {
+                                "en": "Date Converter"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 0,
+                "locale": {
+                    "name": {
+                        "np": "",
+                        "en": "Quick Tools"
+                    },
+                    "description": {
+                        "en": "Quick Tools"
+                    }
+                }
+            },
+            {
+                "code": "DASHBOARD_SHOP",
+                "name": "Shop",
+                "unicodeName": "",
+                "icon": "",
+                "assigned": true,
+                "tint": false,
+                "menuGroup": "ACCOUNT_DASHBOARD_MENUS",
+                "menuId": 227,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "Shop",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 171,
+                        "code": "AIRLINES",
+                        "name": "Airlines",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/airplane.png",
+                        "description": "Airlines",
+                        "navLink": "https://payments.nabilbank.com/flight/211a82cd-af4a-11ec-91fa-02420a000b48?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "Airlines"
+                            },
+                            "description": {
+                                "en": "Airlines"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 173,
+                        "code": "CARD_LESS_WITHDRAW",
+                        "name": "Mobile Cash",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/mobile-cash.png",
+                        "description": "Mobile Cash",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "Mobile Cash"
+                            },
+                            "description": {
+                                "en": "Mobile Cash"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 0,
+                "locale": {
+                    "name": {
+                        "np": "",
+                        "en": "Shop"
+                    },
+                    "description": {
+                        "en": "Shop"
+                    }
+                }
+            },
+            {
+                "code": "DASHBOARD_MY_SHORTCUT",
+                "name": "My Shortcuts",
+                "unicodeName": "",
+                "icon": "",
+                "assigned": true,
+                "tint": false,
+                "menuGroup": "ACCOUNT_DASHBOARD_MENUS",
+                "menuId": 229,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "Topups",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 168,
+                        "code": "TOPUP",
+                        "name": "Top-up",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/topups.png",
+                        "description": "Top-up",
+                        "navLink": "/",
+                        "menuType": "MG",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "Top-up"
+                            },
+                            "description": {
+                                "en": "Top-up"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 169,
+                        "code": "SEND_MONEY",
+                        "name": "Send Money",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/send-money.png",
+                        "description": "Send Money",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "Send Money"
+                            },
+                            "description": {
+                                "en": "Send Money"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 170,
+                        "code": "FDT",
+                        "name": "Apply Fixed Deposit",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/apply-fixed-deposit.png",
+                        "description": "Apply Fixed Deposit",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "Apply Fixed Deposit"
+                            },
+                            "description": {
+                                "en": "Apply Fixed Deposit"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 0,
+                "locale": {
+                    "name": {
+                        "np": "",
+                        "en": "My Shortcuts"
+                    },
+                    "description": {
+                        "en": "Topups"
+                    }
+                }
+            },
+            {
+                "code": "HOME",
+                "name": "Home",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/home-colored.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "MAIN",
+                "menuId": 1,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 125,
+                        "code": "PPU",
+                        "name": "Upload Profile Picture",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/send-money/own-account.png",
+                        "description": "Upload user profile picture",
+                        "navLink": "/",
+                        "menuType": "F",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Upload Profile Picture"
+                            },
+                            "description": {
+                                "np": "UNICODE",
+                                "en": "Upload user profile picture"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 126,
+                        "code": "OFFER",
+                        "name": "Offers",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "",
+                        "navLink": "/",
+                        "menuType": "F",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "en": "Offers"
+                            },
+                            "description": {
+                                "np": "UNICODE"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 179,
+                        "code": "NOTIFICATION",
+                        "name": "Notification",
+                        "unicodeName": "UNICODE",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "",
+                        "description": "Notification",
+                        "navLink": "/",
+                        "menuType": "F",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "UNICODE",
+                                "en": "Notification"
+                            },
+                            "description": {
+                                "np": "UNICODE",
+                                "en": "Notification"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 1,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Home"
+                    },
+                    "description": {
+                        "np": "UNICODE"
+                    }
+                }
+            },
+            {
+                "code": "MY_ACCOUNT",
+                "name": "My Profile",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/accounts-colored-active.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "USER_SETTING",
+                "menuId": 57,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "My Account",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 227,
+                        "code": "DYNAMIC_PREFERENCE_SETTINGS",
+                        "name": "User Preference",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "",
+                        "description": "User Preference",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "User Preference"
+                            },
+                            "description": {
+                                "np": "UNICODE",
+                                "en": "User Preference"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 80,
+                        "code": "FAVOURITE_IMAGE",
+                        "name": "Favourite Image",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "",
+                        "description": "You can use this in future to reset your password whenever you forget it",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Favourite Image"
+                            },
+                            "description": {
+                                "np": "UNICODE",
+                                "en": "You can use this in future to reset your password whenever you forget it"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 1,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "My Profile"
+                    },
+                    "description": {
+                        "np": "UNICODE",
+                        "en": "My Account"
+                    }
+                }
+            },
+            {
+                "code": "DEBIT_CARD",
+                "name": "Debit Cards",
+                "unicodeName": "Debit Cards",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/menu/send-money.svg",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "CARDS",
+                "menuId": 68,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 129,
+                        "code": "PIN_REFRESH",
+                        "name": "Pin Refresh",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/pin-reset.png",
+                        "description": "Pin Refresh",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Pin Refresh"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Pin Refresh"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 130,
+                        "code": "DEACTIVATE_CARD",
+                        "name": "Deactivate Card",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/card-deactivate.png",
+                        "description": "Deactivate Card",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Deactivate Card"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Deactivate Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 131,
+                        "code": "ACTIVATE_CARD",
+                        "name": "Activate Card",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/card-check.png",
+                        "description": "Activate Card",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Activate Card"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Activate Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 132,
+                        "code": "REMOVE_CARD",
+                        "name": "Remove Card",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/card-remove.png",
+                        "description": "Remove Card",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Remove Card"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Remove Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 228,
+                        "code": "GREEN_PIN",
+                        "name": "Green Pin",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/card-remove.png",
+                        "description": "Green Pin",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Green Pin"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Green Pin"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 1,
+                "locale": {
+                    "name": {
+                        "np": "Debit Cards",
+                        "en": "Debit Cards"
+                    },
+                    "description": {}
+                }
+            },
+            {
+                "code": "CREDIT_CARD",
+                "name": "Credit Cards",
+                "unicodeName": "Credit Cards",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/menu/send-money.svg",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "CARDS",
+                "menuId": 69,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 133,
+                        "code": "PIN_REFRESH",
+                        "name": "Pin Refresh",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/pin-reset.png",
+                        "description": "Pin Refresh",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Pin Refresh"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Pin Refresh"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 134,
+                        "code": "DEACTIVATE_CARD",
+                        "name": "Deactivate Card",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/card-deactivate.png",
+                        "description": "Deactivate Card",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Deactivate Card"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Deactivate Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 135,
+                        "code": "ACTIVATE_CARD",
+                        "name": "Activate Card",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/card-check.png",
+                        "description": "Activate Card",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Activate Card"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Activate Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 136,
+                        "code": "REMOVE_CARD",
+                        "name": "Remove Card",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/card-remove.png",
+                        "description": "Remove Card",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Remove Card"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Remove Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 229,
+                        "code": "GREEN_PIN",
+                        "name": "Green Pin",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/card-remove.png",
+                        "description": "Green Pin",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Green Pin"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Green Pin"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 1,
+                "locale": {
+                    "name": {
+                        "np": "Credit Cards",
+                        "en": "Credit Cards"
+                    },
+                    "description": {}
+                }
+            },
+            {
+                "code": "LOAN_AGAINST_FIXED_DEPOSIT",
+                "name": "Loan Against Fixed Deposit",
+                "unicodeName": "Loan Against Fixed Deposit",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/menu/send-money.svg",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "ACCOUNTS",
+                "menuId": 75,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 1,
+                "locale": {
+                    "name": {
+                        "np": "Loan Against Fixed Deposit",
+                        "en": "Loan Against Fixed Deposit"
+                    },
+                    "description": {}
+                }
+            },
+            {
+                "code": "LOAN_SETTLEMENT",
+                "name": "Loan Settlement",
+                "unicodeName": "Loan Settlement",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/menu/send-money.svg",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "ACCOUNTS",
+                "menuId": 76,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 1,
+                "locale": {
+                    "name": {
+                        "np": "Loan Settlement",
+                        "en": "Loan Settlement"
+                    },
+                    "description": {}
+                }
+            },
+            {
+                "code": "DASHBOARD_TOPUPS",
+                "name": "Topups",
+                "unicodeName": "",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/Topups.png",
+                "assigned": true,
+                "tint": false,
+                "menuGroup": "ACCOUNT_DASHBOARD_MENUS",
+                "menuId": 84,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "Topups",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 159,
+                        "code": "TOPUP",
+                        "name": "Topup",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/Topups.png",
+                        "description": "Mobile, Data Pack, Landline",
+                        "navLink": "/",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Topup"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Mobile, Data Pack, Landline"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 147,
+                        "code": "LANDLINE",
+                        "name": "Landline",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/phone-number-bounded.png",
+                        "description": "Landline",
+                        "navLink": "https://payments.nabilbank.com/landline/38fef0ef-7761-11ec-8f5a-02420a000b03?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "Landline"
+                            },
+                            "description": {
+                                "en": "Landline"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 148,
+                        "code": "TV",
+                        "name": "TV",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/tv-bounded 2.png",
+                        "description": "TV",
+                        "navLink": "https://payments.nabilbank.com/tv/9149234c-8837-11ec-bb47-02420a000b46?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "TV"
+                            },
+                            "description": {
+                                "en": "TV"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 1,
+                "locale": {
+                    "name": {
+                        "np": "",
+                        "en": "Topups"
+                    },
+                    "description": {
+                        "en": "Topups"
+                    }
+                }
+            },
+            {
+                "code": "SEND_MONEY_HISTORY",
+                "name": "Fund Transfer History",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/Fund_Transfer_History.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "SEND_MONEY_MORE_ACTIONS",
+                "menuId": 216,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 1,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Fund Transfer History"
+                    },
+                    "description": {
+                        "np": "UNICODE"
+                    }
+                }
+            },
+            {
+                "code": "PAYMENT_HISTORY",
+                "name": "Payment History",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/Payment_History.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "PAYMENTS_MORE_ACTIONS",
+                "menuId": 217,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 1,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Payment History"
+                    },
+                    "description": {
+                        "np": "UNICODE"
+                    }
+                }
+            },
+            {
+                "code": "VIRTUAL_CARD",
+                "name": "Virtual Card",
+                "unicodeName": "Apply Virtual Card",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/menu/send-money.svg",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "CARDS",
+                "menuId": 230,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 165,
+                        "code": "REMOVE_CARD",
+                        "name": "Remove Card",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/card-remove.png",
+                        "description": "Remove Card",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Remove Card"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Remove Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 166,
+                        "code": "EXPORT_DETAILS",
+                        "name": "Export Card Details",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/export-details.png",
+                        "description": "Remove Card",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Export Card Details"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Remove Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 167,
+                        "code": "BALANCE_TOPUP",
+                        "name": "Balance Topup",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/card-topup.png",
+                        "description": "Remove Card",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Balance Topup"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Remove Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 217,
+                        "code": "ACTIVATE_EPAYMENT",
+                        "name": "Activate ePayment",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/card-topup.png",
+                        "description": "Remove Card",
+                        "navLink": "https://acs.nabil.compassplus.uk/enrollment/index.jsp",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Activate ePayment"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Remove Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 218,
+                        "code": "CARD_TRANSACTION_HISTORY",
+                        "name": "Transaction History",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/statement.png",
+                        "description": "Remove Card",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Transaction History"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Remove Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 225,
+                        "code": "VIRTUAL_CARD_RELOAD",
+                        "name": "Virtual Card Reload",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/statement.png",
+                        "description": "Virtual Card Reload",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "पिन अनुरोध",
+                        "locale": {
+                            "name": {
+                                "en": "Virtual Card Reload"
+                            },
+                            "description": {
+                                "np": "पिन अनुरोध",
+                                "en": "Virtual Card Reload"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 1,
+                "locale": {
+                    "name": {
+                        "np": "Apply Virtual Card",
+                        "en": "Virtual Card"
+                    },
+                    "description": {}
+                }
+            },
+            {
+                "code": "RHINO_PASS",
+                "name": "Rhino Pass",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/home-colored.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "MAIN",
+                "menuId": 261,
+                "menuType": "TWV",
+                "navLink": "https://myfood.indulgemall.com/partners/country/nepal/?api_key=${api_key}&user_token=${user_token}&customer_name=${customer_name}&request_id=${request_id}&channel=${channel}&customer_ref_code=NA",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 1,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Rhino Pass"
+                    },
+                    "description": {
+                        "np": "UNICODE"
+                    }
+                }
+            },
+            {
+                "code": "ALL_ACCOUNTS",
+                "name": "Accounts",
+                "unicodeName": "खाताहरू",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/small-white/account.svg",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "ACCOUNTS",
+                "menuId": 262,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "children": [
+                    {
+                        "code": "ACCOUNT_DETAILS",
+                        "name": "Account Details",
+                        "unicodeName": "खाता विवरणहरू",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/small-white/account.svg",
+                        "assigned": true,
+                        "tint": true,
+                        "menuId": 263,
+                        "menuType": "D",
+                        "navLink": "/",
+                        "featureCode": "D",
+                        "description": "Your savings, current and OD accounts will appear here.",
+                        "instruction": "",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "submenus": [],
+                        "parentMenuId": 262,
+                        "sortOrder": 1,
+                        "unicodeDescription": "खाता विवरणहरू",
+                        "locale": {
+                            "name": {
+                                "np": "खाता विवरणहरू",
+                                "en": "Account Details"
+                            },
+                            "description": {
+                                "np": "खाता विवरणहरू",
+                                "en": "Your savings, current and OD accounts will appear here."
+                            }
+                        }
+                    },
+                    {
+                        "code": "CARD",
+                        "name": "Cards",
+                        "unicodeName": "कार्डहरू",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/small-white/payment.svg",
+                        "assigned": true,
+                        "tint": true,
+                        "menuId": 264,
+                        "menuType": "D",
+                        "navLink": "/",
+                        "featureCode": "D",
+                        "description": "Your debit and credit cards will appear here.",
+                        "instruction": "",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "submenus": [],
+                        "parentMenuId": 262,
+                        "sortOrder": 2,
+                        "unicodeDescription": "कार्डहरू",
+                        "locale": {
+                            "name": {
+                                "np": "कार्डहरू",
+                                "en": "Cards"
+                            },
+                            "description": {
+                                "np": "कार्डहरू",
+                                "en": "Your debit and credit cards will appear here."
+                            }
+                        }
+                    },
+                    {
+                        "code": "FIXED_DEPOSIT",
+                        "name": "Fixed Deposit",
+                        "unicodeName": "मुद्धति",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/fixed-deposit.svg",
+                        "assigned": true,
+                        "tint": true,
+                        "menuId": 265,
+                        "menuType": "D",
+                        "navLink": "/",
+                        "featureCode": "D",
+                        "description": "Your fixed deposit accounts will appear here.",
+                        "instruction": "",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "submenus": [],
+                        "parentMenuId": 262,
+                        "sortOrder": 3,
+                        "unicodeDescription": "मुद्धति",
+                        "locale": {
+                            "name": {
+                                "np": "मुद्धति",
+                                "en": "Fixed Deposit"
+                            },
+                            "description": {
+                                "np": "मुद्धति",
+                                "en": "Your fixed deposit accounts will appear here."
+                            }
+                        }
+                    },
+                    {
+                        "code": "LOAN",
+                        "name": "Loan",
+                        "unicodeName": "ऋणको विवरणहरू",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/small-white/payment.svg",
+                        "assigned": true,
+                        "tint": true,
+                        "menuId": 266,
+                        "menuType": "D",
+                        "navLink": "/",
+                        "featureCode": "D",
+                        "description": "Your loans will appear here.",
+                        "instruction": "",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "submenus": [],
+                        "parentMenuId": 262,
+                        "sortOrder": 4,
+                        "unicodeDescription": "ऋणको विवरणहरू",
+                        "locale": {
+                            "name": {
+                                "np": "ऋणको विवरणहरू",
+                                "en": "Loan"
+                            },
+                            "description": {
+                                "np": "ऋणको विवरणहरू",
+                                "en": "Your loans will appear here."
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 1,
+                "unicodeDescription": "खाताहरू",
+                "locale": {
+                    "name": {
+                        "np": "खाताहरू",
+                        "en": "Accounts"
+                    },
+                    "description": {
+                        "np": "खाताहरू"
+                    }
+                }
+            },
+            {
+                "code": "ACTIVITY_LOG",
+                "name": "Activity Log",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/activity.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "USER_SETTING",
+                "menuId": 55,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "User Setting",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 2,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Activity Log"
+                    },
+                    "description": {
+                        "np": "UNICODE",
+                        "en": "User Setting"
+                    }
+                }
+            },
+            {
+                "code": "DASHBOARD_WALLETS",
+                "name": "Wallets",
+                "unicodeName": "",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/nBank.png",
+                "assigned": true,
+                "tint": false,
+                "menuGroup": "ACCOUNT_DASHBOARD_MENUS",
+                "menuId": 85,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "Wallets",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 149,
+                        "code": "ESEWA",
+                        "name": "Load eSewa",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/eSewa.png",
+                        "description": "eSewa",
+                        "navLink": "/",
+                        "menuType": "M",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "Load eSewa"
+                            },
+                            "description": {
+                                "en": "eSewa"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 150,
+                        "code": "KHALTI",
+                        "name": "Load Khalti",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/khalti.png",
+                        "description": "Khalti",
+                        "navLink": "/",
+                        "menuType": "M",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "Load Khalti"
+                            },
+                            "description": {
+                                "en": "Khalti"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 2,
+                "locale": {
+                    "name": {
+                        "np": "",
+                        "en": "Wallets"
+                    },
+                    "description": {
+                        "en": "Wallets"
+                    }
+                }
+            },
+            {
+                "code": "ACCOUNT",
+                "name": "Accounts",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/accounts-colored.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "MAIN",
+                "menuId": 3,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 162,
+                        "code": "LOAN_SETTLEMENT",
+                        "name": "Loan settlement",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/fixed-deposit.svg",
+                        "description": "Virtual Card",
+                        "navLink": "/",
+                        "menuType": "F",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Loan settlement"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Virtual Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 178,
+                        "code": "LOAN_AGAINST_FIXED_DEPOSIT",
+                        "name": "Loan Against FD",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/Apply_Fixed_Deposit.png",
+                        "description": "Loan Against FD",
+                        "navLink": "/",
+                        "menuType": "F",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Loan Against FD"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Loan Against FD"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 3,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Accounts"
+                    },
+                    "description": {
+                        "np": "UNICODE"
+                    }
+                }
+            },
+            {
+                "code": "CARD",
+                "name": "Cards",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/cards-bulk.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "MAIN",
+                "menuId": 4,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 121,
+                        "code": "CARD_RENEWAL",
+                        "name": "Card Renewal",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/card-renew.png",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Card Renewal"
+                            },
+                            "description": {
+                                "np": "UNICODE"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 119,
+                        "code": "GREEN_PIN",
+                        "name": "Green Pin Reset",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/pin-code.png",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Green Pin Reset"
+                            },
+                            "description": {
+                                "np": "UNICODE"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 120,
+                        "code": "PIN_COUNT_RESET",
+                        "name": "Reset Pin Count",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/pin-reset.png",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Reset Pin Count"
+                            },
+                            "description": {
+                                "np": "UNICODE"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 4,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Cards"
+                    },
+                    "description": {
+                        "np": "UNICODE"
+                    }
+                }
+            },
+            {
+                "code": "DASHBOARD_BILLS",
+                "name": "Bills",
+                "unicodeName": "",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/Bills.png",
+                "assigned": true,
+                "tint": false,
+                "menuGroup": "ACCOUNT_DASHBOARD_MENUS",
+                "menuId": 87,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "Bills",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 152,
+                        "code": "INTERNET",
+                        "name": "Internet",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/internet.png",
+                        "description": "Internet",
+                        "navLink": "https://payments.nabilbank.com/internet/90f5699d-615a-11ec-babc-02420a000b04?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "Internet"
+                            },
+                            "description": {
+                                "en": "Internet"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 153,
+                        "code": "ELECTRICITY",
+                        "name": "Electricity",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/electricity.png",
+                        "description": "Electricity",
+                        "navLink": "https://payments.nabilbank.com/electricity/4a95ab19-7d9c-11ec-b416-02420a000b05?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "Electricity"
+                            },
+                            "description": {
+                                "en": "Electricity"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 176,
+                        "code": "INSURANCE",
+                        "name": "Insurance",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/insurance.png",
+                        "description": "Insurance",
+                        "navLink": "https://payments.nabilbank.com/internet/90f5699d-615a-11ec-babc-02420a000b04?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "en": "Insurance"
+                            },
+                            "description": {
+                                "en": "Insurance"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 4,
+                "locale": {
+                    "name": {
+                        "np": "",
+                        "en": "Bills"
+                    },
+                    "description": {
+                        "en": "Bills"
+                    }
+                }
+            },
+            {
+                "code": "SEND_MONEY",
+                "name": "Send Money",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/send-money-bulk.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "MAIN",
+                "menuId": 5,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 1,
+                        "code": "OWN_ACCOUNT",
+                        "name": "Own Account",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "ATAT",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/own-account.png",
+                        "description": "Transfer money between your accounts",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Own Account"
+                            },
+                            "description": {
+                                "np": "UNICODE",
+                                "en": "Transfer money between your accounts"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 2,
+                        "code": "SAME_BANK",
+                        "name": "Nabil Bank",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "ATAT",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/same-bank.png",
+                        "description": "Transfer fund to other accounts within same bank",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Nabil Bank"
+                            },
+                            "description": {
+                                "np": "UNICODE",
+                                "en": "Transfer fund to other accounts within same bank"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 3,
+                        "code": "OTHER_BANK",
+                        "name": "Other Bank",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "BTB",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/other-bank.png",
+                        "description": "Transfer fund to other accounts in other banks",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Other Bank"
+                            },
+                            "description": {
+                                "np": "UNICODE",
+                                "en": "Transfer fund to other accounts in other banks"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 67,
+                        "code": "CIPS",
+                        "name": "Connect Ips",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "CIPS",
+                        "icon": "",
+                        "navLink": "/",
+                        "menuType": "F",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "en": "Connect Ips"
+                            },
+                            "description": {
+                                "np": "UNICODE"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 5,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Send Money"
+                    },
+                    "description": {
+                        "np": "UNICODE"
+                    }
+                }
+            },
+            {
+                "code": "PAYMENT",
+                "name": "Payments",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/payments-bulk.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "MAIN",
+                "menuId": 6,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 7,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Payments"
+                    },
+                    "description": {
+                        "np": "UNICODE"
+                    }
+                }
+            },
+            {
+                "code": "CUST_SERVICE",
+                "name": "Customer Service",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/customer-service-bulk.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "MAIN",
+                "menuId": 7,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 62,
+                        "code": "FAQ",
+                        "name": "FAQs",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/mobile-icons/faq.png",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "FAQs"
+                            },
+                            "description": {
+                                "np": "UNICODE"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 181,
+                        "code": "APPLY_NEW_DEBIT_CARD",
+                        "name": "Apply New Debit Card",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/apply-new-debit-card-bulk.png",
+                        "description": "Apply New Debit Card",
+                        "navLink": "https://digibasket.nabilbank.com/digital-form/debit-card-new-request",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Apply New Debit Card"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Apply New Debit Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 231,
+                        "code": "RHINO_PASS",
+                        "name": "Rhino Pass",
+                        "unicodeName": "Rhino Pass",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/appointment.svg",
+                        "description": "Rhino Pass",
+                        "navLink": "https://myfood.indulgemall.com/partners/country/nepal/?api_key=${api_key}&user_token=${user_token}&customer_name=${customer_name}&request_id=${request_id}&channel=${channel}&customer_ref_code=NA",
+                        "menuType": "TWV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "Rhino Pass",
+                        "locale": {
+                            "name": {
+                                "np": "Rhino Pass",
+                                "en": "Rhino Pass"
+                            },
+                            "description": {
+                                "np": "Rhino Pass",
+                                "en": "Rhino Pass"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 6,
+                        "code": "BRANCHES_ATM",
+                        "name": "Locate Us",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/locate-us-bulk.png",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Locate Us"
+                            },
+                            "description": {
+                                "np": "UNICODE"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 182,
+                        "code": "REPLACEMENT_DEBIT_CARD",
+                        "name": "Apply Replacement Debit Card",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/apply-replacement-debit-card-bulk.png",
+                        "description": "Apply Replacement Debit Card",
+                        "navLink": "https://digibasket.nabilbank.com/digital-form/debit-card-replacement",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Apply Replacement Debit Card"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Apply Replacement Debit Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 183,
+                        "code": "APPLY_CREDIT_CARD",
+                        "name": "Apply Credit Card",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/apply-credit-card-bulk.png",
+                        "description": "Apply Credit Card",
+                        "navLink": "https://www.nabilbank.com/individual/credit-card/eligibility?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Apply Credit Card"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Apply Credit Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 184,
+                        "code": "APPLY_INDIVIDUAL_LOAN",
+                        "name": "Apply Individual Loan",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/apply-individual-loan-bulk.png",
+                        "description": "Apply Individual Loan",
+                        "navLink": "https://digibasket.nabilbank.com/digital-form/individual-loan",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Apply Individual Loan"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Apply Individual Loan"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 10,
+                        "code": "EMI_CALCULATOR",
+                        "name": "EMI Calculator",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/emi-calculator-bulk.png",
+                        "navLink": "https://www.nabilbank.com/individual/calculator?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "EMI Calculator"
+                            },
+                            "description": {
+                                "np": "UNICODE"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 186,
+                        "code": "INTEREST_RATE",
+                        "name": "Interest Rate",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/interest-rates-bulk.png",
+                        "description": "Interest Rate",
+                        "navLink": "https://www.nabilbank.com/individual/interest-rate?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Interest Rate"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Interest Rate"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 191,
+                        "code": "EXCHANGE",
+                        "name": "Exchange Rates",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/exchange-rate-bulk.png",
+                        "description": "Exchange Rates",
+                        "navLink": "https://www.nabilbank.com/individual/currency?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Exchange Rates"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Exchange Rates"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 192,
+                        "code": "DIGITAL_SERVICES",
+                        "name": "Digital Services",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/digital-services-bulk.png",
+                        "description": "Digital Services",
+                        "navLink": "https://nbankhome.nabilbank.com/?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Digital Services"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Digital Services"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 193,
+                        "code": "GET_IN_TOUCH",
+                        "name": "Get In Touch",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/mobile-icons/get_in_touch.png",
+                        "description": "Get In Touch",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Get In Touch"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Get In Touch"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 90,
+                        "code": "FDT",
+                        "name": "Apply Fixed Deposit",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/apply-fixed-deposit-bulk.png",
+                        "description": "Fixed Deposit Transfer",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "en": "Apply Fixed Deposit"
+                            },
+                            "description": {
+                                "np": "UNICODE",
+                                "en": "Fixed Deposit Transfer"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 194,
+                        "code": "SEND_MONEY_HISTORY",
+                        "name": "Fund Transfer History",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/fund-transfer-history-bulk.png",
+                        "description": "Fund Transfer History",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Fund Transfer History"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Fund Transfer History"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 195,
+                        "code": "PAYMENT_HISTORY",
+                        "name": "Payment History",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/Payment_History.png",
+                        "description": "Payment History",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Payment History"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Payment History"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 197,
+                        "code": "ONLINE_PAYMENTS",
+                        "name": "Online Payments",
+                        "unicodeName": "uniceode",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/online-payments-bulk.png",
+                        "description": "Online Payments",
+                        "navLink": "https://nbankhome.nabilbank.com/",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "Unicode",
+                        "locale": {
+                            "name": {
+                                "np": "uniceode",
+                                "en": "Online Payments"
+                            },
+                            "description": {
+                                "np": "Unicode",
+                                "en": "Online Payments"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 198,
+                        "code": "CARD_LESS_WITHDRAW",
+                        "name": "Mobile Cash",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/mobile-cash.png",
+                        "description": "Mobile Cash",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Mobile Cash"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Mobile Cash"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 160,
+                        "code": "APPLY_VITRUAL_CARD",
+                        "name": "Apply Virtual iCard",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/apply-virtual-icard.png",
+                        "description": "Virtual Card",
+                        "navLink": "/",
+                        "menuType": "F",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Apply Virtual iCard"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Virtual Card"
+                            }
+                        }
+                    }
+                ],
+                "children": [
+                    {
+                        "code": "APPLY_NOW",
+                        "name": "Apply Now",
+                        "unicodeName": "unicode",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/customer-service-bulk.png",
+                        "assigned": true,
+                        "tint": true,
+                        "menuGroup": "MAIN",
+                        "menuId": 225,
+                        "menuType": "D",
+                        "navLink": "/",
+                        "featureCode": "D",
+                        "instruction": "",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "submenus": [],
+                        "children": [
+                            {
+                                "code": "APPLY_VITRUAL_CARD",
+                                "name": "Apply Virtual Card",
+                                "unicodeName": "Apply Virtual Card",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/services/apply-virtual-icard.png",
+                                "assigned": true,
+                                "tint": true,
+                                "menuGroup": "CARDS",
+                                "menuId": 74,
+                                "menuType": "D",
+                                "navLink": "/",
+                                "featureCode": "D",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 225,
+                                "sortOrder": 1,
+                                "locale": {
+                                    "name": {
+                                        "np": "Apply Virtual Card",
+                                        "en": "Apply Virtual Card"
+                                    },
+                                    "description": {}
+                                }
+                            },
+                            {
+                                "code": "FDT",
+                                "name": "Apply Fixed Deposit",
+                                "unicodeName": "ग्राहक सेवा",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/apply-fixed-deposit-bulk.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 236,
+                                "menuType": "D",
+                                "navLink": "/",
+                                "featureCode": "D",
+                                "description": "Apply Fixed Deposit",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 225,
+                                "sortOrder": 1,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "ग्राहक सेवा",
+                                        "en": "Apply Fixed Deposit"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Apply Fixed Deposit"
+                                    }
+                                }
+                            },
+                            {
+                                "code": "APPLY_NEW_DEBIT_CARD",
+                                "name": "Apply New Debit Card",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/apply-new-debit-card-bulk.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 237,
+                                "menuType": "WV",
+                                "navLink": "https://digibasket.nabilbank.com/digital-form/debit-card-new-request",
+                                "featureCode": "D",
+                                "description": "Apply New Debit Card",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 225,
+                                "sortOrder": 2,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "Apply New Debit Card"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Apply New Debit Card"
+                                    }
+                                }
+                            },
+                            {
+                                "code": "REPLACEMENT_DEBIT_CARD",
+                                "name": "Apply Replacement Debit Card",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/apply-replacement-debit-card-bulk.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 238,
+                                "menuType": "WV",
+                                "navLink": "https://digibasket.nabilbank.com/digital-form/debit-card-replacement",
+                                "featureCode": "D",
+                                "description": "Apply Replacement Debit Card",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 225,
+                                "sortOrder": 3,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "Apply Replacement Debit Card"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Apply Replacement Debit Card"
+                                    }
+                                }
+                            },
+                            {
+                                "code": "APPLY_CREDIT_CARD",
+                                "name": "Apply Credit Card",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/apply-credit-card-bulk.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 239,
+                                "menuType": "WV",
+                                "navLink": "https://www.nabilbank.com/individual/credit-card/eligibility?source=mobile",
+                                "featureCode": "D",
+                                "description": "Apply Credit Card",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 225,
+                                "sortOrder": 4,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "Apply Credit Card"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Apply Credit Card"
+                                    }
+                                }
+                            },
+                            {
+                                "code": "APPLY_INDIVIDUAL_LOAN",
+                                "name": "Apply Individual Loan",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/apply-individual-loan-bulk.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 240,
+                                "menuType": "WV",
+                                "navLink": "https://digibasket.nabilbank.com/digital-form/individual-loan",
+                                "featureCode": "D",
+                                "description": "Apply Individual Loan",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 225,
+                                "sortOrder": 5,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "Apply Individual Loan"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Apply Individual Loan"
+                                    }
+                                }
+                            }
+                        ],
+                        "parentMenuId": 7,
+                        "sortOrder": 8,
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Apply Now"
+                            },
+                            "description": {
+                                "np": "UNICODE"
+                            }
+                        }
+                    },
+                    {
+                        "code": "CUSTOMER_SERVICE",
+                        "name": "Customer Service",
+                        "unicodeName": "ग्राहक सेवा",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/menu/cust-service.svg",
+                        "assigned": true,
+                        "tint": false,
+                        "menuGroup": "MAIN",
+                        "menuId": 233,
+                        "menuType": "D",
+                        "navLink": "/",
+                        "featureCode": "D",
+                        "description": "Customer Service",
+                        "instruction": "",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "submenus": [],
+                        "children": [
+                            {
+                                "code": "FAQ",
+                                "name": "FAQs",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/mobile-icons/faq.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 241,
+                                "menuType": "D",
+                                "navLink": "/",
+                                "featureCode": "D",
+                                "description": "FAQs",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 233,
+                                "sortOrder": 1,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "FAQs"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "FAQs"
+                                    }
+                                }
+                            },
+                            {
+                                "code": "INTEREST_RATE",
+                                "name": "Interest Rate",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/interest-rates-bulk.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 242,
+                                "menuType": "WV",
+                                "navLink": "https://www.nabilbank.com/individual/interest-rate/?source=web",
+                                "featureCode": "D",
+                                "description": "Interest Rate",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 233,
+                                "sortOrder": 2,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "Interest Rate"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Interest Rate"
+                                    }
+                                }
+                            },
+                            {
+                                "code": "EMI_CALCULATOR",
+                                "name": "EMI Calculator",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/emi-calculator-bulk.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 243,
+                                "menuType": "WV",
+                                "navLink": "https://www.nabilbank.com/individual/calculator/?source=web",
+                                "featureCode": "D",
+                                "description": "EMI Calculator",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 233,
+                                "sortOrder": 3,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "EMI Calculator"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "EMI Calculator"
+                                    }
+                                }
+                            },
+                            {
+                                "code": "BRANCHES_ATM",
+                                "name": "Locate Us",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/locate-us-bulk.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 244,
+                                "menuType": "D",
+                                "navLink": "/",
+                                "featureCode": "D",
+                                "description": "Locate Us",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 233,
+                                "sortOrder": 4,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "Locate Us"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Locate Us"
+                                    }
+                                }
+                            },
+                            {
+                                "code": "EXCHANGE",
+                                "name": "Exchange Rates",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/exchange-rate-bulk.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 245,
+                                "menuType": "WV",
+                                "navLink": "https://www.nabilbank.com/individual/currency/?source=web",
+                                "featureCode": "D",
+                                "description": "Exchange Rates",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 233,
+                                "sortOrder": 5,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "Exchange Rates"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Exchange Rates"
+                                    }
+                                }
+                            },
+                            {
+                                "code": "DIGITAL_SERVICES",
+                                "name": "Digital Services",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/digital-services-bulk.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 246,
+                                "menuType": "WV",
+                                "navLink": "https://digibasket.nabilbank.com/?source=web",
+                                "featureCode": "D",
+                                "description": "Digital Services",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 233,
+                                "sortOrder": 6,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "Digital Services"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Digital Services"
+                                    }
+                                }
+                            },
+                            {
+                                "code": "GET_IN_TOUCH",
+                                "name": "Get In Touch",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/mobile-icons/get_in_touch.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 247,
+                                "menuType": "D",
+                                "navLink": "/",
+                                "featureCode": "D",
+                                "description": "Get In Touch",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 233,
+                                "sortOrder": 7,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "Get In Touch"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Get In Touch"
+                                    }
+                                }
+                            },
+                            {
+                                "code": "SEND_MONEY_HISTORY",
+                                "name": "Fund Transfer History",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/fund-transfer-history-bulk.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 248,
+                                "menuType": "D",
+                                "navLink": "/",
+                                "featureCode": "D",
+                                "description": "Fund Transfer History",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 233,
+                                "sortOrder": 8,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "Fund Transfer History"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Fund Transfer History"
+                                    }
+                                }
+                            },
+                            {
+                                "code": "PAYMENT_HISTORY",
+                                "name": "Payment History",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/Payment_History.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 249,
+                                "menuType": "D",
+                                "navLink": "/",
+                                "featureCode": "D",
+                                "description": "Payment History",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 233,
+                                "sortOrder": 9,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "Payment History"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Payment History"
+                                    }
+                                }
+                            }
+                        ],
+                        "parentMenuId": 7,
+                        "sortOrder": 2,
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "ग्राहक सेवा",
+                                "en": "Customer Service"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Customer Service"
+                            }
+                        }
+                    },
+                    {
+                        "code": "SHOPPING",
+                        "name": "Shopping",
+                        "unicodeName": "ग्राहक सेवा",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/menu/cust-service.svg",
+                        "assigned": true,
+                        "tint": false,
+                        "menuGroup": "MAIN",
+                        "menuId": 234,
+                        "menuType": "D",
+                        "navLink": "/",
+                        "featureCode": "D",
+                        "description": "Shopping",
+                        "instruction": "",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "submenus": [],
+                        "children": [
+                            {
+                                "code": "ONLINE_PAYMENTS",
+                                "name": "Online Payments",
+                                "unicodeName": "",
+                                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/online-payments-bulk.png",
+                                "assigned": true,
+                                "tint": false,
+                                "menuGroup": "MAIN",
+                                "menuId": 251,
+                                "menuType": "WV",
+                                "navLink": "https://nbankhome.nabilbank.com/",
+                                "featureCode": "D",
+                                "description": "Online Payments",
+                                "instruction": "",
+                                "iosVersion": "1",
+                                "androidVersion": "1",
+                                "submenus": [],
+                                "parentMenuId": 234,
+                                "sortOrder": 2,
+                                "unicodeDescription": "",
+                                "locale": {
+                                    "name": {
+                                        "np": "",
+                                        "en": "Online Payments"
+                                    },
+                                    "description": {
+                                        "np": "",
+                                        "en": "Online Payments"
+                                    }
+                                }
+                            }
+                        ],
+                        "parentMenuId": 7,
+                        "sortOrder": 3,
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "ग्राहक सेवा",
+                                "en": "Shopping"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Shopping"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 9,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Customer Service"
+                    },
+                    "description": {
+                        "np": "UNICODE"
+                    }
+                }
+            },
+            {
+                "code": "USER_PROFILE",
+                "name": "User Profile",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/small-white/user-profile.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "USER_PROFILE",
+                "menuId": 8,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 32,
+                        "code": "ACTIVITY_LOG",
+                        "name": "Activity Log",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/Activity_Log.png",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "en": "Activity Log"
+                            },
+                            "description": {
+                                "np": "UNICODE"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 33,
+                        "code": "LOG_OUT",
+                        "name": "Logout",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/logout-bulk.svg",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "UNICODE",
+                        "locale": {
+                            "name": {
+                                "en": "Logout"
+                            },
+                            "description": {
+                                "np": "UNICODE"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 9,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "User Profile"
+                    },
+                    "description": {
+                        "np": "UNICODE"
+                    }
+                }
+            },
+            {
+                "code": "IREMIT",
+                "name": "nRemit: Send money to Nepal",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/services/nBank.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "REMIT",
+                "menuId": 64,
+                "menuType": "WV",
+                "navLink": "https://testdigihost.nabilbank.com/sysworkflow/en/neoclassic/7104766956316d8eebb0235025808433/1306626406316d8eed012e2004670712.php?source=web",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 10,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "nRemit: Send money to Nepal"
+                    },
+                    "description": {
+                        "np": "UNICODE"
+                    }
+                }
+            },
+            {
+                "code": "CUSTOMER_CARE",
+                "name": "Customer Care",
+                "unicodeName": "ग्राहक सेवा",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/menu/cust-service.svg",
+                "assigned": true,
+                "tint": false,
+                "menuGroup": "CUSTOMER_CARE",
+                "menuId": 252,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "Customer Care",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 202,
+                        "code": "PHONE_NUMBER",
+                        "name": "Phone Number",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/misc/phone-number.png",
+                        "description": "+977 1 5970015",
+                        "navLink": "tel:+977 1 5970015",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Phone Number"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "+977 1 5970015"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 203,
+                        "code": "EMAIL_ADDRESS",
+                        "name": "Email",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/misc/email.png",
+                        "description": "customercare@nabilbank.com",
+                        "navLink": "mailto:customercare@nabilbank.com",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Email"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "customercare@nabilbank.com"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 204,
+                        "code": "VIBER",
+                        "name": "Viber",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/misc/viber.png",
+                        "description": "9802002095",
+                        "navLink": "viber://chat?number=+9779802002095",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Viber"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "9802002095"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 205,
+                        "code": "BOOK_APPOINTMENT",
+                        "name": "Book an appointment",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/services/appointment.png",
+                        "description": "Set Date & Time",
+                        "navLink": "https://www.nabilbank.com/individual/book-an-appointment?source=mobile",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "unicodeDescription": "",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Book an appointment"
+                            },
+                            "description": {
+                                "np": "",
+                                "en": "Set Date & Time"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 10,
+                "unicodeDescription": "ग्राहक सेवा",
+                "locale": {
+                    "name": {
+                        "np": "ग्राहक सेवा",
+                        "en": "Customer Care"
+                    },
+                    "description": {
+                        "np": "ग्राहक सेवा",
+                        "en": "Customer Care"
+                    }
+                }
+            },
+            {
+                "code": "CARD_LESS_WITHDRAW",
+                "name": "Mobile Cash",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/menus/web-icon/services/mobile-cash.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "REMIT",
+                "menuId": 23,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 11,
+                "unicodeDescription": "UNICODE",
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Mobile Cash"
+                    },
+                    "description": {
+                        "np": "UNICODE",
+                        "en": ""
+                    }
+                }
+            },
+            {
+                "code": "navigate",
+                "name": "Navigate",
+                "unicodeName": "Navigate",
+                "icon": "",
+                "assigned": true,
+                "tint": false,
+                "menuGroup": "mainMenu",
+                "menuType": "M",
+                "navLink": "/",
+                "featureCode": "navigate",
+                "description": "naviagte",
+                "instruction": "",
+                "submenus": [],
+                "unicodeDescription": ""
+            },
+            {
+                "code": "MBTOPUP",
+                "name": "Mobile Topup",
+                "unicodeName": "unicode",
+                "icon": "https://testbanksmart.nabilbank.com/smartstatic/icons/merchant_icons/Mobile_Topup.png",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "mainMenu",
+                "menuType": "M",
+                "navLink": "/",
+                "featureCode": "MBTOPUP",
+                "description": "Mobile Topup",
+                "instruction": "Please enter your NTC, NCELL, CDMA, SMART Mobile Number and select amount to recharge your balance.",
+                "submenus": []
+            }
+        ]
+    }
+}

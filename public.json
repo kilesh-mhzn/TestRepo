@@ -1,0 +1,761 @@
+{
+    "success": true,
+    "message": "Menu fetched",
+    "code": "0",
+    "data": {
+        "unassignedMessage": "You are not authorized to access this menu.",
+        "mainMenuResponses": [
+            {
+                "code": "LOGIN_GET_STARTED",
+                "name": "Get Started",
+                "unicodeName": "",
+                "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/mobile-icons/ic_scan2pay.png",
+                "assigned": true,
+                "tint": false,
+                "menuGroup": "LANDING_BANKING_SERVICES",
+                "menuId": 85,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 166,
+                        "code": "DIGITAL",
+                        "name": "Digital Services",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/services/logos_brand_icon.png",
+                        "description": "",
+                        "navLink": "https://digital.kumaribank.com/",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Digital Services"
+                            },
+                            "description": {
+                                "en": ""
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 0,
+                "locale": {
+                    "name": {
+                        "np": "",
+                        "en": "Get Started"
+                    },
+                    "description": {
+                        "en": ""
+                    }
+                }
+            },
+            {
+                "code": "LOGIN_SERVICES_MENU",
+                "name": "Others",
+                "unicodeName": "",
+                "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/mobile-icons/ic_scan2pay.png",
+                "assigned": true,
+                "tint": false,
+                "menuGroup": "ONLINE_SERVICES",
+                "menuId": 86,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 167,
+                        "code": "UNO_CARD",
+                        "name": "UNO Card",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/kumari_icons/uno.png",
+                        "description": "UNO Card",
+                        "navLink": "https://unoapp.page.link/uno",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "UNO Card"
+                            },
+                            "description": {
+                                "en": "UNO Card"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 169,
+                        "code": "REPORT_PROBLEM_PUBLIC",
+                        "name": "Report a problem",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/kumari_icons/report-problem.png",
+                        "description": "Report a problem",
+                        "navLink": "https://online-grievance.kumaribank.com/feedback",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Report a problem"
+                            },
+                            "description": {
+                                "en": "Report a problem"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 170,
+                        "code": "LOGIN_BRANCHES_ATM",
+                        "name": "Branch & ATMs",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/kumari_icons/branch.png",
+                        "description": "Branch & ATMs",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Branch & ATMs"
+                            },
+                            "description": {
+                                "en": "Branch & ATMs"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 173,
+                        "code": "FOREX_WV",
+                        "name": "Exchange",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/kumari_icons/forex.png",
+                        "description": "Exchange",
+                        "navLink": "https://www.kumaribank.com/forex",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Exchange"
+                            },
+                            "description": {
+                                "en": "Exchange"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 175,
+                        "code": "LOGIN_PRODUCTS",
+                        "name": "Products",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/kumari_icons/product.png",
+                        "description": "Products",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Products"
+                            },
+                            "description": {
+                                "en": "Products"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 176,
+                        "code": "ECALC",
+                        "name": "EMI Calculator",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/kumari_icons/emicalculator.png",
+                        "description": "EMI Calculator",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "EMI Calculator"
+                            },
+                            "description": {
+                                "en": "EMI Calculator"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 171,
+                        "code": "MISS_CALL_BANKING",
+                        "name": "Missed Call\r\nBanking",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/kumari_icons/missed-call-banking.png",
+                        "description": "Missed Call\r\nBanking",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Missed Call\r\nBanking"
+                            },
+                            "description": {
+                                "en": "Missed Call\r\nBanking"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 172,
+                        "code": "HELP",
+                        "name": "Help",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/kumari_icons/help.png",
+                        "description": "Help",
+                        "navLink": "https://kblonline.kumaribank.com/smartstatic/faq.html",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Help"
+                            },
+                            "description": {
+                                "en": "Help"
+                            }
+                        }
+                    },
+                    {
+                        "subMenuId": 174,
+                        "code": "KBL Website",
+                        "name": "Kumari Bank",
+                        "unicodeName": "",
+                        "assigned": true,
+                        "tint": false,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/kumari_icons/kbl-website.png",
+                        "description": "KBL Website",
+                        "navLink": "https://www.kumaribank.com/",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "",
+                                "en": "Kumari Bank"
+                            },
+                            "description": {
+                                "en": "KBL Website"
+                            }
+                        }
+                    }
+                ],
+                "sortOrder": 0,
+                "locale": {
+                    "name": {
+                        "np": "",
+                        "en": "Others"
+                    },
+                    "description": {
+                        "en": ""
+                    }
+                }
+            },
+            {
+                "code": "HOME",
+                "name": "Home",
+                "unicodeName": "unicode",
+                "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/small-white/home.svg",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "MAIN",
+                "menuId": 15,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 1,
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Home"
+                    },
+                    "description": {}
+                }
+            },
+            {
+                "code": "404_ERROR",
+                "name": "Error",
+                "unicodeName": "unicode",
+                "icon": "",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "404_ERROR",
+                "menuId": 51,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "description": "Home",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 54,
+                        "code": "CUSTOMER_CARE",
+                        "name": "Customer Care",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/404/customer-care.png",
+                        "navLink": "/",
+                        "menuType": "F",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Customer Care"
+                            },
+                            "description": {}
+                        }
+                    },
+                    {
+                        "subMenuId": 55,
+                        "code": "HOME",
+                        "name": "Home",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/404/home.png",
+                        "navLink": "/",
+                        "menuType": "F",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Home"
+                            },
+                            "description": {}
+                        }
+                    }
+                ],
+                "sortOrder": 1,
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Error"
+                    },
+                    "description": {
+                        "en": "Home"
+                    }
+                }
+            },
+            {
+                "code": "PRODUCT",
+                "name": "Products",
+                "unicodeName": "unicode",
+                "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/small-white/product.svg",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "MAIN",
+                "menuId": 16,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 2,
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Products"
+                    },
+                    "description": {}
+                }
+            },
+            {
+                "code": "PAYMENT",
+                "name": "Payments",
+                "unicodeName": "unicode",
+                "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/small-white/payment.svg",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "MAIN",
+                "menuId": 17,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 3,
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Payments"
+                    },
+                    "description": {}
+                }
+            },
+            {
+                "code": "SERVICES",
+                "name": "Services",
+                "unicodeName": "unicode",
+                "icon": "",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "FOOTER",
+                "menuId": 19,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 21,
+                        "code": "APPOINTMENT",
+                        "name": "Set an Appointment",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/services/appointment.svg",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Set an Appointment"
+                            },
+                            "description": {}
+                        }
+                    },
+                    {
+                        "subMenuId": 22,
+                        "code": "CUSTOMER_CARE",
+                        "name": "Customer Care",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/services/customer-care.svg",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Customer Care"
+                            },
+                            "description": {}
+                        }
+                    },
+                    {
+                        "subMenuId": 23,
+                        "code": "REPORT_PROBLEM",
+                        "name": "Report a Problem",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/services/report-problem.svg",
+                        "navLink": "https://online-grievance.kumaribank.com/feedback",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Report a Problem"
+                            },
+                            "description": {}
+                        }
+                    },
+                    {
+                        "subMenuId": 29,
+                        "code": "ABOUT_US",
+                        "name": "About Us",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/services/about-us.svg",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "About Us"
+                            },
+                            "description": {}
+                        }
+                    }
+                ],
+                "sortOrder": 5,
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Services"
+                    },
+                    "description": {}
+                }
+            },
+            {
+                "code": "UTILITIES",
+                "name": "Utilities",
+                "unicodeName": "unicode",
+                "icon": "",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "FOOTER",
+                "menuId": 20,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 24,
+                        "code": "FOREX_WEB",
+                        "name": "Forex",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/services/forex.svg",
+                        "navLink": "https://www.kumaribank.com/forex",
+                        "menuType": "WV",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Forex"
+                            },
+                            "description": {}
+                        }
+                    },
+                    {
+                        "subMenuId": 25,
+                        "code": "STOCK",
+                        "name": "Stocks",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/services/stock.svg",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Stocks"
+                            },
+                            "description": {}
+                        }
+                    },
+                    {
+                        "subMenuId": 34,
+                        "code": "EMI_CALCULATOR",
+                        "name": "Emi Calculator",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/services/emicalculator.svg",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Emi Calculator"
+                            },
+                            "description": {}
+                        }
+                    }
+                ],
+                "sortOrder": 6,
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Utilities"
+                    },
+                    "description": {}
+                }
+            },
+            {
+                "code": "HELP",
+                "name": "Help",
+                "unicodeName": "unicode",
+                "icon": "",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "FOOTER",
+                "menuId": 21,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [
+                    {
+                        "subMenuId": 27,
+                        "code": "BRANCHES_ATM",
+                        "name": "Branches/ATMs",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/services/branches-atm.svg",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "Branches/ATMs"
+                            },
+                            "description": {}
+                        }
+                    },
+                    {
+                        "subMenuId": 63,
+                        "code": "FAQ",
+                        "name": "FAQ",
+                        "unicodeName": "unicode",
+                        "assigned": true,
+                        "tint": true,
+                        "featureCode": "D",
+                        "icon": "https://kblonline.kumaribank.com/smartstatic/icons/menus/services/faq.svg",
+                        "navLink": "/",
+                        "menuType": "D",
+                        "iosVersion": "1",
+                        "androidVersion": "1",
+                        "locale": {
+                            "name": {
+                                "np": "unicode",
+                                "en": "FAQ"
+                            },
+                            "description": {}
+                        }
+                    }
+                ],
+                "sortOrder": 7,
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Help"
+                    },
+                    "description": {}
+                }
+            },
+            {
+                "code": "APPOINTMENT",
+                "name": "Set an Appointment",
+                "unicodeName": "unicode",
+                "icon": "",
+                "assigned": true,
+                "tint": true,
+                "menuGroup": "PRIMARY_ACTION_BUTTON",
+                "menuId": 22,
+                "menuType": "D",
+                "navLink": "/",
+                "featureCode": "D",
+                "instruction": "",
+                "iosVersion": "1",
+                "androidVersion": "1",
+                "submenus": [],
+                "sortOrder": 7,
+                "locale": {
+                    "name": {
+                        "np": "unicode",
+                        "en": "Set an Appointment"
+                    },
+                    "description": {}
+                }
+            },
+            {
+                "code": "MBTOPUP",
+                "name": "Mobile Topup",
+                "unicodeName": "unicode",
+                "icon": "https://kblonline.kumaribank.com/smartstatic/icons/merchant_icons/mobile-topup.png",
+                "assigned": false,
+                "tint": true,
+                "menuGroup": "mainMenu",
+                "menuType": "M",
+                "navLink": "/",
+                "featureCode": "MBTOPUP",
+                "description": "Mobile Topup",
+                "instruction": "Please enter your NTC, NCELL, CDMA, SMART Mobile Number and select amount to recharge your balance.",
+                "submenus": []
+            }
+        ]
+    }
+}
